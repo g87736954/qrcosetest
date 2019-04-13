@@ -12,6 +12,27 @@
 		CE05D865225C7607001B6A4A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE05D863225C7607001B6A4A /* Main.storyboard */; };
 		CE05D867225C760A001B6A4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE05D866225C760A001B6A4A /* Assets.xcassets */; };
 		CE05D86A225C760A001B6A4A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE05D868225C760A001B6A4A /* LaunchScreen.storyboard */; };
+		CE05D87C225C7843001B6A4A /* OrderdetailTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05D871225C7841001B6A4A /* OrderdetailTableViewCell.swift */; };
+		CE05D87D225C7843001B6A4A /* Map2VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05D872225C7841001B6A4A /* Map2VC.swift */; };
+		CE05D87E225C7843001B6A4A /* DetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05D873225C7841001B6A4A /* DetailVC.swift */; };
+		CE05D87F225C7843001B6A4A /* OrderTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05D874225C7842001B6A4A /* OrderTableViewCell.swift */; };
+		CE05D880225C7843001B6A4A /* MapVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05D875225C7842001B6A4A /* MapVC.swift */; };
+		CE05D882225C7843001B6A4A /* G87orderdetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05D877225C7842001B6A4A /* G87orderdetailViewController.swift */; };
+		CE05D883225C7843001B6A4A /* Spot.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05D878225C7842001B6A4A /* Spot.swift */; };
+		CE05D884225C7843001B6A4A /* G87orderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05D879225C7842001B6A4A /* G87orderViewController.swift */; };
+		CE05D885225C7843001B6A4A /* MemberUpdataVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05D87A225C7842001B6A4A /* MemberUpdataVC.swift */; };
+		CE05D886225C7843001B6A4A /* G87ConsumerInformationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05D87B225C7842001B6A4A /* G87ConsumerInformationViewController.swift */; };
+		CE05D88B225C78AB001B6A4A /* Good.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05D887225C78AB001B6A4A /* Good.swift */; };
+		CE05D88C225C78AB001B6A4A /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05D888225C78AB001B6A4A /* Order.swift */; };
+		CE05D88D225C78AB001B6A4A /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05D889225C78AB001B6A4A /* User.swift */; };
+		CE05D88E225C78AB001B6A4A /* Orderdetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05D88A225C78AB001B6A4A /* Orderdetail.swift */; };
+		CE05D890225C78BE001B6A4A /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05D88F225C78BD001B6A4A /* Common.swift */; };
+		CE05D896225C798B001B6A4A /* ScanQRCodeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05D891225C798A001B6A4A /* ScanQRCodeVC.swift */; };
+		CE05D897225C798B001B6A4A /* ManagerOrderCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05D892225C798A001B6A4A /* ManagerOrderCell.swift */; };
+		CE05D898225C798B001B6A4A /* ManagerOrderEditTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05D893225C798A001B6A4A /* ManagerOrderEditTVC.swift */; };
+		CE05D899225C798B001B6A4A /* ManagerOrder.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE05D894225C798B001B6A4A /* ManagerOrder.storyboard */; };
+		CE05D89A225C798B001B6A4A /* ManagerOrderTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05D895225C798B001B6A4A /* ManagerOrderTVC.swift */; };
+		CE05D89C225C79A1001B6A4A /* ConsumerInformation.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE05D89B225C79A1001B6A4A /* ConsumerInformation.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +43,27 @@
 		CE05D866225C760A001B6A4A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE05D869225C760A001B6A4A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE05D86B225C760A001B6A4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE05D871225C7841001B6A4A /* OrderdetailTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrderdetailTableViewCell.swift; sourceTree = "<group>"; };
+		CE05D872225C7841001B6A4A /* Map2VC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Map2VC.swift; sourceTree = "<group>"; };
+		CE05D873225C7841001B6A4A /* DetailVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailVC.swift; sourceTree = "<group>"; };
+		CE05D874225C7842001B6A4A /* OrderTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrderTableViewCell.swift; sourceTree = "<group>"; };
+		CE05D875225C7842001B6A4A /* MapVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapVC.swift; sourceTree = "<group>"; };
+		CE05D877225C7842001B6A4A /* G87orderdetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = G87orderdetailViewController.swift; sourceTree = "<group>"; };
+		CE05D878225C7842001B6A4A /* Spot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Spot.swift; sourceTree = "<group>"; };
+		CE05D879225C7842001B6A4A /* G87orderViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = G87orderViewController.swift; sourceTree = "<group>"; };
+		CE05D87A225C7842001B6A4A /* MemberUpdataVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MemberUpdataVC.swift; sourceTree = "<group>"; };
+		CE05D87B225C7842001B6A4A /* G87ConsumerInformationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = G87ConsumerInformationViewController.swift; sourceTree = "<group>"; };
+		CE05D887225C78AB001B6A4A /* Good.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Good.swift; sourceTree = "<group>"; };
+		CE05D888225C78AB001B6A4A /* Order.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
+		CE05D889225C78AB001B6A4A /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		CE05D88A225C78AB001B6A4A /* Orderdetail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Orderdetail.swift; sourceTree = "<group>"; };
+		CE05D88F225C78BD001B6A4A /* Common.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Common.swift; sourceTree = "<group>"; };
+		CE05D891225C798A001B6A4A /* ScanQRCodeVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScanQRCodeVC.swift; sourceTree = "<group>"; };
+		CE05D892225C798A001B6A4A /* ManagerOrderCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ManagerOrderCell.swift; sourceTree = "<group>"; };
+		CE05D893225C798A001B6A4A /* ManagerOrderEditTVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ManagerOrderEditTVC.swift; sourceTree = "<group>"; };
+		CE05D894225C798B001B6A4A /* ManagerOrder.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = ManagerOrder.storyboard; sourceTree = "<group>"; };
+		CE05D895225C798B001B6A4A /* ManagerOrderTVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ManagerOrderTVC.swift; sourceTree = "<group>"; };
+		CE05D89B225C79A1001B6A4A /* ConsumerInformation.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = ConsumerInformation.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,10 +96,31 @@
 		CE05D85E225C7607001B6A4A /* qrcosetest */ = {
 			isa = PBXGroup;
 			children = (
+				CE05D895225C798B001B6A4A /* ManagerOrderTVC.swift */,
+				CE05D888225C78AB001B6A4A /* Order.swift */,
+				CE05D891225C798A001B6A4A /* ScanQRCodeVC.swift */,
+				CE05D893225C798A001B6A4A /* ManagerOrderEditTVC.swift */,
+				CE05D877225C7842001B6A4A /* G87orderdetailViewController.swift */,
+				CE05D88F225C78BD001B6A4A /* Common.swift */,
+				CE05D894225C798B001B6A4A /* ManagerOrder.storyboard */,
+				CE05D89B225C79A1001B6A4A /* ConsumerInformation.storyboard */,
+				CE05D866225C760A001B6A4A /* Assets.xcassets */,
 				CE05D85F225C7607001B6A4A /* AppDelegate.swift */,
 				CE05D861225C7607001B6A4A /* ViewController.swift */,
 				CE05D863225C7607001B6A4A /* Main.storyboard */,
-				CE05D866225C760A001B6A4A /* Assets.xcassets */,
+				CE05D892225C798A001B6A4A /* ManagerOrderCell.swift */,
+				CE05D887225C78AB001B6A4A /* Good.swift */,
+				CE05D88A225C78AB001B6A4A /* Orderdetail.swift */,
+				CE05D889225C78AB001B6A4A /* User.swift */,
+				CE05D873225C7841001B6A4A /* DetailVC.swift */,
+				CE05D87B225C7842001B6A4A /* G87ConsumerInformationViewController.swift */,
+				CE05D879225C7842001B6A4A /* G87orderViewController.swift */,
+				CE05D872225C7841001B6A4A /* Map2VC.swift */,
+				CE05D875225C7842001B6A4A /* MapVC.swift */,
+				CE05D87A225C7842001B6A4A /* MemberUpdataVC.swift */,
+				CE05D871225C7841001B6A4A /* OrderdetailTableViewCell.swift */,
+				CE05D874225C7842001B6A4A /* OrderTableViewCell.swift */,
+				CE05D878225C7842001B6A4A /* Spot.swift */,
 				CE05D868225C760A001B6A4A /* LaunchScreen.storyboard */,
 				CE05D86B225C760A001B6A4A /* Info.plist */,
 			);
@@ -123,6 +186,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE05D86A225C760A001B6A4A /* LaunchScreen.storyboard in Resources */,
+				CE05D89C225C79A1001B6A4A /* ConsumerInformation.storyboard in Resources */,
+				CE05D899225C798B001B6A4A /* ManagerOrder.storyboard in Resources */,
 				CE05D867225C760A001B6A4A /* Assets.xcassets in Resources */,
 				CE05D865225C7607001B6A4A /* Main.storyboard in Resources */,
 			);
@@ -135,8 +200,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE05D88B225C78AB001B6A4A /* Good.swift in Sources */,
+				CE05D896225C798B001B6A4A /* ScanQRCodeVC.swift in Sources */,
+				CE05D87F225C7843001B6A4A /* OrderTableViewCell.swift in Sources */,
+				CE05D882225C7843001B6A4A /* G87orderdetailViewController.swift in Sources */,
+				CE05D87E225C7843001B6A4A /* DetailVC.swift in Sources */,
+				CE05D890225C78BE001B6A4A /* Common.swift in Sources */,
+				CE05D89A225C798B001B6A4A /* ManagerOrderTVC.swift in Sources */,
+				CE05D88D225C78AB001B6A4A /* User.swift in Sources */,
+				CE05D88E225C78AB001B6A4A /* Orderdetail.swift in Sources */,
+				CE05D885225C7843001B6A4A /* MemberUpdataVC.swift in Sources */,
+				CE05D898225C798B001B6A4A /* ManagerOrderEditTVC.swift in Sources */,
+				CE05D884225C7843001B6A4A /* G87orderViewController.swift in Sources */,
+				CE05D87D225C7843001B6A4A /* Map2VC.swift in Sources */,
 				CE05D862225C7607001B6A4A /* ViewController.swift in Sources */,
+				CE05D886225C7843001B6A4A /* G87ConsumerInformationViewController.swift in Sources */,
+				CE05D880225C7843001B6A4A /* MapVC.swift in Sources */,
+				CE05D883225C7843001B6A4A /* Spot.swift in Sources */,
+				CE05D897225C798B001B6A4A /* ManagerOrderCell.swift in Sources */,
+				CE05D88C225C78AB001B6A4A /* Order.swift in Sources */,
 				CE05D860225C7607001B6A4A /* AppDelegate.swift in Sources */,
+				CE05D87C225C7843001B6A4A /* OrderdetailTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,7 +367,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NZLRVLS9RU;
 				INFOPLIST_FILE = qrcosetest/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -300,7 +386,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NZLRVLS9RU;
 				INFOPLIST_FILE = qrcosetest/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
